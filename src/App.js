@@ -85,6 +85,15 @@ Flex
   <div class="p-4">Item 6</div>
 </div>
 
+<div class="p-4 flex items-center justify-center bg-red-300">
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    <div class="p-20 bg-slate-100">Item 1</div>
+    <div class="p-20 bg-white">Item 2</div>
+    <div class="p-4">Item 3</div>
+    <div class="p-4 border border-t-blue-400">Item 4</div>
+  </div>
+</div>
+
 single column layout
 <div class="flex flex-col md:flex-row">
   <div class="flex-1 p-4">Item 1</div>
