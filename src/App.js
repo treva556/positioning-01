@@ -26,8 +26,7 @@ Flexbox Method
   <a href="#" class="hover:underline">Services</a>
   <a href="#" class="hover:underline">Contact</a>
 </nav>
-  <p className=' text-red-600'> 2.
-  Fixed and Responsive Column Widths:   </p>
+  <p className=' text-red-600'> 2. Fixed and Responsive Column Widths:   </p>
 <div class="grid grid-cols-2 gap-4 md:grid-cols-4">
   <div class="col-span-1 md:col-span-2">Item 1</div>
   <div class="col-span-1 md:col-span-2">Item 2</div>
@@ -70,7 +69,7 @@ Basic Grid Setup:
 
 Flex
 <div class="flex justify-center">
-  <div class="w-1/2">
+  <div class="w-1/2 bg-slate-500" >
      Your content here
   </div>
 </div>
