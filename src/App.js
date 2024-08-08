@@ -10,10 +10,10 @@ function App() {
   <p className=' p-5 text-red-600 font-mono'>  1. Center Align Links:</p>
 
       <nav class="flex justify-center p-4 bg-gray-800 text-white">
-  <a href="#" class="mx-4 hover:underline">Home</a>
-  <a href="#" class="mx-4 hover:underline">About</a>
-  <a href="#" class="mx-4 hover:underline">Services</a>
-  <a href="#" class="mx-4 hover:underline">Contact</a>
+  <a href="#" class="mx-4 hover:underline">Pg 1</a>
+  <a href="#" class="mx-4 hover:underline">Pg 2</a>
+  <a href="#" class="mx-4 hover:underline">Pg 3</a>
+  <a href="#" class="mx-4 hover:underline">Pg 4</a>
 </nav>
 
 Aligning Links to Far Ends:
@@ -89,7 +89,7 @@ Flex
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
     <div class="p-20 bg-slate-100">Item 1</div>
     <div class="p-20 bg-white">Item 2</div>
-    <div class="p-4">Item 3</div>
+    <div class="p-4 bg-white w-28 border border-red-900">Item 3</div>
     <div class="p-4 border border-t-blue-400">Item 4</div>
   </div>
 </div>
