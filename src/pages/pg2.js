@@ -57,7 +57,18 @@ function Sec() {
     <div className=' p-4 border'>
         3
     </div>
-    
+  </div>
+
+  <div className='flex  text-white justify-center mt-4 gap-8'>
+    <div className=' p-20 bg-slate-300 text-black'>
+        1
+    </div>
+    <div className=' p-20 bg-slate-300 text-black rounded-full'>
+        2
+    </div>
+    <div className=' p-20 bg-slate-300 text-black'>
+        3
+    </div>
   </div>
 
 
