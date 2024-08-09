@@ -66,10 +66,13 @@ function Sec() {
     <div className=' p-20 bg-slate-300 text-black rounded-full'>
         2
     </div>
-    <div className=' p-20 bg-slate-300 text-black'>
+    <div className=' p-20 bg-slate-300 text-black border-b-slate-950'>
         3
     </div>
+    
   </div>
+ 
+<button class=" hover:ring-blue-500 mt-4 p-2 bg-red-200 ring-2 ring-blue-500/50 rounded-xl">Subscribe</button>
 
 
   </div>
